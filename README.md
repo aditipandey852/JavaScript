@@ -5,3 +5,4 @@
 2634. Filter Elements from Array :- https://leetcode.com/problems/filter-elements-from-array/description/?envType=study-plan-v2&envId=30-days-of-javascript
 2626. Array Reduce Transformation :- https://leetcode.com/problems/array-reduce-transformation/description/?envType=study-plan-v2&envId=30-days-of-javascript
 2629. Function Composition :- https://leetcode.com/problems/function-composition/description/?envType=study-plan-v2&envId=30-days-of-javascript
+2703. Return Length of Arguments Passed :- https://leetcode.com/problems/return-length-of-arguments-passed/description/?envType=study-plan-v2&envId=30-days-of-javascript
