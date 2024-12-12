@@ -6,3 +6,4 @@
 2626. Array Reduce Transformation :- https://leetcode.com/problems/array-reduce-transformation/description/?envType=study-plan-v2&envId=30-days-of-javascript
 2629. Function Composition :- https://leetcode.com/problems/function-composition/description/?envType=study-plan-v2&envId=30-days-of-javascript
 2703. Return Length of Arguments Passed :- https://leetcode.com/problems/return-length-of-arguments-passed/description/?envType=study-plan-v2&envId=30-days-of-javascript
+2666. Allow One Function Call :- https://leetcode.com/problems/allow-one-function-call/submissions/1477319082/?envType=study-plan-v2&envId=30-days-of-javascript
