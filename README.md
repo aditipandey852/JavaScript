@@ -9,3 +9,4 @@
 2666. Allow One Function Call :- https://leetcode.com/problems/allow-one-function-call/submissions/1477319082/?envType=study-plan-v2&envId=30-days-of-javascript
 2623. Memoize :- https://leetcode.com/problems/memoize/description/?envType=study-plan-v2&envId=30-days-of-javascript
 2723. Add Two Promises :- https://leetcode.com/problems/add-two-promises/submissions/1478074468/?envType=study-plan-v2&envId=30-days-of-javascript
+2621. Sleep :- https://leetcode.com/problems/sleep/description/?envType=study-plan-v2&envId=30-days-of-javascript
